@@ -2,7 +2,9 @@ class Solution {
     public long timeCalc(int[] piles,int k){
         long totalTime = 0;
         for(int i=0;i<piles.length;i++){
-          totalTime += (piles[i] + (long)k -1)/k;
+          long y=piles[i]/k;
+if(piles[i]%k !=0){y++;}
+          totalTime +=y;
         }
         return totalTime;
     }
