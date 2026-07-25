@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Banhivaroy/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Banhivaroy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Banhivaroy/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Banhivaroy/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Banhivaroy/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Banhivaroy/LeetCode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Banhivaroy/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Banhivaroy/LeetCode/tree/master/0013-roman-to-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Banhivaroy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Banhivaroy/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Banhivaroy/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Banhivaroy/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2032-largest-odd-number-in-string](https://github.com/Banhivaroy/LeetCode/tree/master/2032-largest-odd-number-in-string) |
